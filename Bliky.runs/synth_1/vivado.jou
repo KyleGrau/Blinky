@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Sat Oct 19 12:03:18 2024
+# Process ID: 24732
+# Current directory: D:/FPGA/Projects/Bliky/Bliky.runs/synth_1
+# Command line: vivado.exe -log blinky.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source blinky.tcl
+# Log file: D:/FPGA/Projects/Bliky/Bliky.runs/synth_1/blinky.vds
+# Journal file: D:/FPGA/Projects/Bliky/Bliky.runs/synth_1\vivado.jou
+# Running On        :The_Crusher
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :22631
+# Processor Detail  :12th Gen Intel(R) Core(TM) i9-12900K
+# CPU Frequency     :3187 MHz
+# CPU Physical cores:16
+# CPU Logical cores :24
+# Host memory       :68501 MB
+# Swap memory       :4294 MB
+# Total Virtual     :72796 MB
+# Available Virtual :52539 MB
+#-----------------------------------------------------------
+source blinky.tcl -notrace
